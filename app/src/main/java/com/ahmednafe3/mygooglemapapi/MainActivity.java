@@ -1,7 +1,8 @@
-package com.googlemapapi.ahmednafe3.mygooglemapapi;
+package com.ahmednafe3.mygooglemapapi;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
 
 public class MainActivity extends AppCompatActivity {
 
